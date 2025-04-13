@@ -1,0 +1,14 @@
+.song-card > h3 {
+    font-size: 15px;
+    text-align: center;
+}
+
+.song-card {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
